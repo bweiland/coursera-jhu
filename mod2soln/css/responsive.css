@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: lightgray;  
+  background-color: #e2e6e9;  
 }
 
 h1 {
@@ -29,7 +29,7 @@ h2 {
 }
 
 section {
-  background-color: gray;
+  background-color: #a9b3bc;
   border: 1px solid black;
   margin: 15px; 
 }
@@ -48,7 +48,7 @@ p {
 }
 
 .chickentext {
-  background-color: khaki;  
+/*  background-color: khaki;  */
 }
 
 .beef {
@@ -56,7 +56,7 @@ p {
 }
 
 .beeftext {
-  background-color: lightpink;    
+/*  background-color: lightpink;    */
 }
 
 .sushi {
@@ -64,7 +64,7 @@ p {
 }
 
 .sushitext {  
-  background-color: darkseagreen;  
+/*  background-color: darkseagreen;  */
 }
 
 /* Simple Responsive Framework. */

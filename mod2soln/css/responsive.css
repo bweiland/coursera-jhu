@@ -2,8 +2,11 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
-/*  font-family: Helvetica;*/
   font-family: Verdana, Geneva, sans-serif;
+}
+
+div {
+  float: left;
 }
 
 body {
